@@ -1,0 +1,46 @@
+#glasspane{
+  position:absolute;
+  left:930px;
+  top:50px;
+  padding: 0 20px 10px 10px;
+  color:white;
+  font-family:Droid Sans, Arial, Helvetica, sans-serif;
+  font-size:12px;
+  font-weight:bold;
+  width:300px;
+  height:590px;
+}
+
+#glasspane h2{
+  font-weight: normal;
+}
+
+p {
+  text-align:center;
+  padding-top: 10px;
+}
+
+button {
+  margin-top:0;
+  margin-left:100px;
+  width: 100px;
+  height:30px;
+  border-radius: 5px;
+  border:0;
+  overflow:hidden;
+  background: #3DD0E9;
+  }
+
+button:hover {
+	background:#30588e;
+}
+button a {
+  display:block;
+	text-align:center;
+	color:#112338;
+  text-decoration:none;
+  font-weight:bold;
+}
+button a:hover {
+	color:#e2eaf3;
+}
